@@ -1466,30 +1466,45 @@ body {
     padding-top: 1.5rem !important;
   }
 }
-.cid-rAMxxOCAM5 {
+.cid-rI9QNG8qxL {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rAMxxOCAM5 h3 {
+.cid-rI9QNG8qxL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rI9QNG8qxL p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rI9QNG8qxL .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rI9QNG8qxL .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rI9QNG8qxL .mbr-text {
+  color: #767676;
+}
+.cid-rI9QNG8qxL .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rI9QNG8qxL .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rI9QNG8qxL H2 {
   text-align: center;
+  color: #232323;
 }
-.cid-rAMxxOCAM5 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rAMxxOCAM5 .mbr-content-text {
-  color: #767676;
-}
-.cid-rAMxxOCAM5 .panel-item {
-  background: #ffffff;
-}
-.cid-rAMxxOCAM5 .card {
-  word-wrap: break-word;
-}
-.cid-rAMxxOCAM5 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-rI9QNG8qxL .card-title {
+  color: #ff3366;
 }
 .cid-rI9yh1efZM {
   padding-top: 90px;
