@@ -33,7 +33,11 @@
     "versionFirst": "4.10.6",
     "siteFonts": [],
     "uniqCompNum": 23,
-    "versionPublish": "4.10.6"
+    "versionPublish": "4.10.6",
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-512x512-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
