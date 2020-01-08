@@ -330,8 +330,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/landingpage-2-1896x932.png",
-                "thumb": "@PROJECT_PATH@/assets/images/landingpage-2-1896x932-800x393.png",
+                "image": "@PROJECT_PATH@/assets/images/machenic-1920x766.png",
+                "thumb": "@PROJECT_PATH@/assets/images/machenic-1920x766-800x319.png",
                 "alt": "LANDING-PAGE-2",
                 "title": "",
                 "customStyle1": "display-7",
@@ -343,8 +343,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/langdingpage-1-1899x936.png",
-                "thumb": "@PROJECT_PATH@/assets/images/langdingpage-1-1899x936-800x394.png",
+                "image": "@PROJECT_PATH@/assets/images/hoanhthanhmientay-1900x864.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hoanhthanhmientay-1900x864-800x364.png",
                 "alt": "LANDING-PAGE-1",
                 "title": "",
                 "customStyle1": "display-7",
@@ -356,8 +356,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/muctamco3dathanh-1900x988.png",
-                "thumb": "@PROJECT_PATH@/assets/images/muctamco3dathanh-1900x988-800x416.png",
+                "image": "@PROJECT_PATH@/assets/images/muctamco3dathanh-1891x879.png",
+                "thumb": "@PROJECT_PATH@/assets/images/muctamco3dathanh-1891x879-800x372.png",
                 "alt": "muctamco3dathanh",
                 "title": "muctamco3dathanh-project",
                 "customStyle1": "display-7",
@@ -375,10 +375,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "BLOG",
+                "tags": "E-LEARNING",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -388,7 +388,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
